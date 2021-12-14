@@ -33,8 +33,9 @@ input[type="password"]
     width: 82%;
     padding: 10px;
     border: none;
+    -webkit-appearance: none;
+    margin: 0;
 }
-
 
 
 
